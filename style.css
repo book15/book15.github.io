@@ -12,3 +12,11 @@ img {
 .container {
    display: flex;
 }
+
+h1 {
+  color:DarkOliveGreen;
+}
+
+h3 {
+  color:DarkOliveGreen;
+}
