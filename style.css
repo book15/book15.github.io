@@ -10,6 +10,7 @@ img {
   width: 25%;
   height: 25%;
   float:right;
+  background: grey;
 }
 .container {
    display: flex;
@@ -19,12 +20,14 @@ h1 {
   color:DarkOliveGreen;
   font-size: 56px;
   border: 2px solid black;
+  background: grey;
 }
 
 h3 {
   color:DarkOliveGreen;
   font-size: 36x;
   border: 2px solid black;
+  background: grey;
 }
 
 #header {
