@@ -30,4 +30,5 @@ h3 {
 #header {
   text-size: 1rem;
   border: 1px dashed black;
+  margin:0;
 }
