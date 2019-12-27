@@ -16,9 +16,11 @@ img {
 h1 {
   color:DarkOliveGreen;
   font-size: 56px;
+  border: 2px solid black;
 }
 
 h3 {
   color:DarkOliveGreen;
   font-size: 36x;
+  border: 2px solid black;
 }
